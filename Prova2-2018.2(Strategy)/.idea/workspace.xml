@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61975d11-7c72-4261-85a9-278b17f5340f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/caixasPersonalizadas/Facade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/CaixaPersonalizada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/_formato/Circular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/_formato/Formato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/_formato/Pentagonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/_formato/Retangular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caixasPersonalizadas/_controllers/CaixaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/CaixaPersonalizada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/CaixaPersonalizada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/caixasPersonalizadas/_controllers/CaixaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caixasPersonalizadas/_controllers/CaixaController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,75 +29,17 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/_formato/Formato.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/_formato/Circular.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-              <folding>
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#468#469#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/_formato/Retangular.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
-                <element signature="e#448#449#0" expanded="true" />
-                <element signature="e#472#473#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/_formato/Pentagonal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="e#198#199#0" expanded="true" />
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#298#299#0" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-                <element signature="e#401#402#0" expanded="true" />
-                <element signature="e#443#444#0" expanded="true" />
-                <element signature="e#482#483#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/CaixaPersonalizada.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+            <state relative-caret-position="392">
+              <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
               <folding>
                 <element signature="e#478#479#0" expanded="true" />
                 <element signature="e#519#520#0" expanded="true" />
                 <element signature="e#549#550#0" expanded="true" />
                 <element signature="e#575#576#0" expanded="true" />
+                <element signature="e#862#863#0" expanded="true" />
+                <element signature="e#888#889#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -110,14 +48,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/caixasPersonalizadas/_controllers/CaixaController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            <state relative-caret-position="185">
+              <caret line="101" column="55" selection-start-line="101" selection-start-column="55" selection-end-line="101" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#292#293#0" expanded="true" />
                 <element signature="e#347#348#0" expanded="true" />
-                <element signature="e#391#392#0" expanded="true" />
-                <element signature="e#415#416#0" expanded="true" />
+                <element signature="e#2103#2104#0" expanded="true" />
+                <element signature="e#2154#2155#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -140,11 +78,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/Formato.java" />
-        <option value="$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/CaixaPersonalizada.java" />
         <option value="$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/_formato/Formato.java" />
         <option value="$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/_formato/Circular.java" />
         <option value="$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/_formato/Retangular.java" />
         <option value="$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/_formato/Pentagonal.java" />
+        <option value="$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/CaixaPersonalizada.java" />
         <option value="$PROJECT_DIR$/src/caixasPersonalizadas/_controllers/CaixaController.java" />
       </list>
     </option>
@@ -210,6 +148,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -240,12 +179,12 @@
       <option name="presentableId" value="Default" />
       <updated>1560206339808</updated>
       <workItem from="1560206343847" duration="85000" />
-      <workItem from="1560206475593" duration="2321000" />
+      <workItem from="1560206475593" duration="3646000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2406000" />
+    <option name="totallyTimeSpent" value="3731000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
@@ -268,7 +207,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3299285" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -285,13 +224,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/caixasPersonalizadas/Facade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" selection-start-column="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/_formato/Formato.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -314,19 +246,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/_formato/Retangular.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/_formato/Pentagonal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
@@ -344,29 +263,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/_formato/Retangular.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/caixasPersonalizadas/Facade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/CaixaPersonalizada.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        <state relative-caret-position="392">
+          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
           <folding>
             <element signature="e#478#479#0" expanded="true" />
             <element signature="e#519#520#0" expanded="true" />
             <element signature="e#549#550#0" expanded="true" />
             <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#862#863#0" expanded="true" />
+            <element signature="e#888#889#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/caixasPersonalizadas/_controllers/CaixaController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        <state relative-caret-position="185">
+          <caret line="101" column="55" selection-start-line="101" selection-start-column="55" selection-end-line="101" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#292#293#0" expanded="true" />
             <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#2103#2104#0" expanded="true" />
+            <element signature="e#2154#2155#0" expanded="true" />
           </folding>
         </state>
       </provider>

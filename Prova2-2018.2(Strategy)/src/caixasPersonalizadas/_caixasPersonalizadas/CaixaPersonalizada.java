@@ -13,6 +13,10 @@ public class CaixaPersonalizada implements Comparable<CaixaPersonalizada> {
         this.formato = formato;
     }
 
+    public String setPersonalizacao(String personalizacao) {
+        this.personalizacao = personalizacao;
+        return this.personalizacao;
+    }
 
     public String getPersonalizacao() {
         return this.personalizacao;
@@ -20,6 +24,10 @@ public class CaixaPersonalizada implements Comparable<CaixaPersonalizada> {
 
     public double getPreco() {
         return this.formato.getAreaDaTampa() * 0.1;
+    }
+
+    public String getFORMATO() {
+        return this.formato.getFORMATO();
     }
 
     @Override
