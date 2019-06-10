@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61975d11-7c72-4261-85a9-278b17f5340f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/CaixaPersonalizada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/CaixaPersonalizada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/caixasPersonalizadas/Facade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caixasPersonalizadas/Facade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/caixasPersonalizadas/_controllers/CaixaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caixasPersonalizadas/_controllers/CaixaController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,37 +18,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/caixasPersonalizadas/Facade.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="29" selection-start-column="29" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/CaixaPersonalizada.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+            <state relative-caret-position="395">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
               <folding>
-                <element signature="e#478#479#0" expanded="true" />
-                <element signature="e#519#520#0" expanded="true" />
-                <element signature="e#549#550#0" expanded="true" />
-                <element signature="e#575#576#0" expanded="true" />
-                <element signature="e#862#863#0" expanded="true" />
-                <element signature="e#888#889#0" expanded="true" />
+                <element signature="e#182#183#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#1235#1236#0" expanded="true" />
+                <element signature="e#1260#1261#0" expanded="true" />
+                <element signature="e#1675#1676#0" expanded="true" />
+                <element signature="e#1701#1702#0" expanded="true" />
+                <element signature="e#1778#1779#0" expanded="true" />
+                <element signature="e#1820#1821#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/caixasPersonalizadas/_controllers/CaixaController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="101" column="55" selection-start-line="101" selection-start-column="55" selection-end-line="101" selection-end-column="55" />
+            <state relative-caret-position="521">
+              <caret line="101" column="21" selection-start-line="101" selection-start-column="21" selection-end-line="101" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#292#293#0" expanded="true" />
@@ -84,6 +76,7 @@
         <option value="$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/_formato/Pentagonal.java" />
         <option value="$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/CaixaPersonalizada.java" />
         <option value="$PROJECT_DIR$/src/caixasPersonalizadas/_controllers/CaixaController.java" />
+        <option value="$PROJECT_DIR$/src/caixasPersonalizadas/Facade.java" />
       </list>
     </option>
   </component>
@@ -126,20 +119,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="caixasPersonalizadas" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Prova2-2018.2(Strategy)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Prova2-2018.2(Strategy)" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="caixasPersonalizadas" type="462c0819:PsiDirectoryNode" />
-              <item name="_caixasPersonalizadas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Prova2-2018.2(Strategy)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Prova2-2018.2(Strategy)" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="caixasPersonalizadas" type="462c0819:PsiDirectoryNode" />
-              <item name="_controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -179,12 +158,12 @@
       <option name="presentableId" value="Default" />
       <updated>1560206339808</updated>
       <workItem from="1560206343847" duration="85000" />
-      <workItem from="1560206475593" duration="3646000" />
+      <workItem from="1560206475593" duration="4050000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3731000" />
+    <option name="totallyTimeSpent" value="4135000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
@@ -276,16 +255,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/caixasPersonalizadas/Facade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" selection-start-column="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/caixasPersonalizadas/_caixasPersonalizadas/CaixaPersonalizada.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
+        <state relative-caret-position="812">
           <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
           <folding>
             <element signature="e#478#479#0" expanded="true" />
@@ -300,14 +272,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/caixasPersonalizadas/_controllers/CaixaController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="101" column="55" selection-start-line="101" selection-start-column="55" selection-end-line="101" selection-end-column="55" />
+        <state relative-caret-position="521">
+          <caret line="101" column="21" selection-start-line="101" selection-start-column="21" selection-end-line="101" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#292#293#0" expanded="true" />
             <element signature="e#347#348#0" expanded="true" />
             <element signature="e#2103#2104#0" expanded="true" />
             <element signature="e#2154#2155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/caixasPersonalizadas/Facade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#1235#1236#0" expanded="true" />
+            <element signature="e#1260#1261#0" expanded="true" />
+            <element signature="e#1675#1676#0" expanded="true" />
+            <element signature="e#1701#1702#0" expanded="true" />
+            <element signature="e#1778#1779#0" expanded="true" />
+            <element signature="e#1820#1821#0" expanded="true" />
           </folding>
         </state>
       </provider>

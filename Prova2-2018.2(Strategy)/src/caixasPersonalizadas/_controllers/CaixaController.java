@@ -92,14 +92,14 @@ public class CaixaController {
         return saida;
     }
 
-    public String getLucro() {
+    public double getLucro() {
         double valor = 0.0;
 
         for (CaixaPersonalizada caixa : this.caixasCadastradas.values()) {
             valor += caixa.getPreco();
         }
 
-        return "Lucro total: R$" + String.format("%.2f", valor);
+        return valor;
     }
 
 
