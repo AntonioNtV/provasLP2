@@ -1,5 +1,3 @@
-package caixasPersonalizadas;
-
 import _controllers.CaixaController;
 
 public class Facade {
