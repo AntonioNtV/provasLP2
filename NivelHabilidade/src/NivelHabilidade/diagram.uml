@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="449.0000000000001" y="-100.0">NivelHabilidade.Habilidade.TiposHabilidade.Pessoal</node>
+    <node x="551.3357142857144" y="0.0">NivelHabilidade.Habilidade.Habilidade</node>
+    <node x="0.0" y="128.0">NivelHabilidade.Habilidade.TiposHabilidade.Profissional</node>
+    <node x="503.7357142857143" y="305.0">NivelHabilidade.Pessoa</node>
+    <node x="250.00000000000006" y="104.0">NivelHabilidade.Habilidade.TiposHabilidade.InterPessoal</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="NivelHabilidade.Pessoa" target="NivelHabilidade.Habilidade.TiposHabilidade.Profissional">
+      <point x="-113.20000000000005" y="-112.0" />
+      <point x="532.0357142857142" y="285.0" />
+      <point x="115.0" y="285.0" />
+      <point x="0.0" y="51.5" />
+    </edge>
+    <edge source="NivelHabilidade.Habilidade.TiposHabilidade.Profissional" target="NivelHabilidade.Habilidade.Habilidade">
+      <point x="0.0" y="-51.5" />
+      <point x="115.0" y="74.0" />
+      <point x="572.8357142857144" y="74.0" />
+      <point x="-86.0" y="27.0" />
+    </edge>
+    <edge source="NivelHabilidade.Habilidade.TiposHabilidade.Pessoal" target="NivelHabilidade.Habilidade.Habilidade">
+      <point x="0.0" y="-75.5" />
+      <point x="661.5000000000001" y="84.0" />
+      <point x="658.8357142857144" y="84.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="NivelHabilidade.Pessoa" target="NivelHabilidade.Habilidade.Habilidade">
+      <point x="56.60000000000002" y="-112.0" />
+      <point x="701.8357142857144" y="275.0" />
+      <point x="802.5" y="275.0" />
+      <point x="802.5" y="84.0" />
+      <point x="701.8357142857144" y="84.0" />
+      <point x="43.0" y="27.0" />
+    </edge>
+    <edge source="NivelHabilidade.Habilidade.TiposHabilidade.InterPessoal" target="NivelHabilidade.Habilidade.Habilidade">
+      <point x="0.0" y="-75.5" />
+      <point x="380.50000000000006" y="84.0" />
+      <point x="615.8357142857144" y="84.0" />
+      <point x="-43.0" y="27.0" />
+    </edge>
+    <edge source="NivelHabilidade.Pessoa" target="NivelHabilidade.Habilidade.TiposHabilidade.Pessoal">
+      <point x="0.0" y="-112.0" />
+      <point x="645.2357142857143" y="285.0" />
+      <point x="661.5000000000001" y="285.0" />
+      <point x="0.0" y="75.5" />
+    </edge>
+    <edge source="NivelHabilidade.Pessoa" target="NivelHabilidade.Habilidade.TiposHabilidade.InterPessoal">
+      <point x="-56.60000000000002" y="-112.0" />
+      <point x="588.6357142857144" y="275.0" />
+      <point x="380.50000000000006" y="275.0" />
+      <point x="0.0" y="75.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="778.5" y="106.5" />
+  <SelectedNodes>
+    <node>NivelHabilidade.Habilidade.TiposHabilidade.Pessoal</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
