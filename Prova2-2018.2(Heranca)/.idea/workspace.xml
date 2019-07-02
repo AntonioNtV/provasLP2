@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2578acb2-77a9-4308-88cf-8132d469337a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Prova2-2018.2(Heranca).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Facade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_caixaPersonalizada/CaixaPersonalizada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_caixaPersonalizada/Circular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_caixaPersonalizada/Pentagonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_caixaPersonalizada/Retangular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_controllers/CaixaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Facade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Facade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Prova2-2018.2(Strategy)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prova2-2018.2(Strategy)/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,11 +18,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Facade.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="-420">
               <folding>
                 <element signature="e#178#179#0" expanded="true" />
                 <element signature="e#238#239#0" expanded="true" />
@@ -46,7 +39,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_controllers/CaixaController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
+            <state relative-caret-position="-1550">
               <caret line="27" column="122" selection-start-line="27" selection-start-column="122" selection-end-line="27" selection-end-column="122" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -62,7 +55,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_caixaPersonalizada/CaixaPersonalizada.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
+            <state relative-caret-position="172">
               <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding>
                 <element signature="e#389#390#0" expanded="true" />
@@ -76,7 +69,7 @@
         <entry file="file://$PROJECT_DIR$/src/_caixaPersonalizada/Retangular.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="588">
-              <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
               <folding>
                 <element signature="e#126#127#0" expanded="true" />
                 <element signature="e#150#151#0" expanded="true" />
@@ -106,11 +99,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_caixaPersonalizada/Pentagonal.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="56">
-              <caret line="2" column="52" lean-forward="true" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+              <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
               <folding>
                 <element signature="e#354#355#0" expanded="true" />
                 <element signature="e#422#423#0" expanded="true" />
@@ -140,12 +133,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Facade.java" />
         <option value="$PROJECT_DIR$/src/_caixaPersonalizada/CaixaPersonalizada.java" />
         <option value="$PROJECT_DIR$/src/_caixaPersonalizada/Circular.java" />
         <option value="$PROJECT_DIR$/src/_caixaPersonalizada/Retangular.java" />
         <option value="$PROJECT_DIR$/src/_caixaPersonalizada/Pentagonal.java" />
         <option value="$PROJECT_DIR$/src/_controllers/CaixaController.java" />
+        <option value="$PROJECT_DIR$/src/Facade.java" />
       </list>
     </option>
   </component>
@@ -175,17 +168,6 @@
               <item name="Prova2-2018.2(Heranca)" type="b2602c69:ProjectViewProjectNode" />
               <item name="Prova2-2018.2(Heranca)" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Prova2-2018.2(Heranca)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Prova2-2018.2(Heranca)" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Prova2-2018.2(Heranca)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Prova2-2018.2(Heranca)" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_caixaPersonalizada" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -195,6 +177,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -228,16 +211,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560212098405</updated>
-      <workItem from="1560212107001" duration="960000" />
+      <workItem from="1560212107001" duration="2710000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="960000" />
+    <option name="totallyTimeSpent" value="2710000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-6" width="1855" height="1086" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -249,7 +231,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3299285" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -273,45 +255,19 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Facade.java">
+    <entry file="file://$PROJECT_DIR$/src/_caixaPersonalizada/Pentagonal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
           <folding>
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#1235#1236#0" expanded="true" />
-            <element signature="e#1307#1308#0" expanded="true" />
-            <element signature="e#1675#1676#0" expanded="true" />
-            <element signature="e#1746#1747#0" expanded="true" />
-            <element signature="e#1778#1779#0" expanded="true" />
-            <element signature="e#1832#1833#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_caixaPersonalizada/CaixaPersonalizada.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_caixaPersonalizada/Retangular.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -331,9 +287,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/_caixaPersonalizada/Retangular.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_caixaPersonalizada/CaixaPersonalizada.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/_controllers/CaixaController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
+        <state relative-caret-position="-1550">
           <caret line="27" column="122" selection-start-line="27" selection-start-column="122" selection-end-line="27" selection-end-column="122" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -345,19 +327,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_caixaPersonalizada/Pentagonal.java">
+    <entry file="file://$PROJECT_DIR$/src/Facade.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="52" lean-forward="true" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+        <state relative-caret-position="-420">
           <folding>
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#1235#1236#0" expanded="true" />
+            <element signature="e#1307#1308#0" expanded="true" />
+            <element signature="e#1675#1676#0" expanded="true" />
+            <element signature="e#1746#1747#0" expanded="true" />
+            <element signature="e#1778#1779#0" expanded="true" />
+            <element signature="e#1832#1833#0" expanded="true" />
           </folding>
         </state>
       </provider>

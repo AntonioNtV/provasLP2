@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="411d025d-3759-4234-b28b-b74400f55536" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/simulal/Facade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simulal/_animais/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simulal/_animais/Cachorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simulal/_animais/Elefante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simulal/_animais/Morcego.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simulal/_controllers/SimulalController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simulal/_estrategiaDeOrdenacao/OrdenaAnimalPorIdade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simulal/_estrategiaDeOrdenacao/OrdenaAnimalPorPeso.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Prova2-2018.2(Heranca)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prova2-2018.2(Heranca)/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Prova2-2018.2(Heranca)/src/Facade.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Prova2-2018.2(Heranca)/src/Facade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Prova2-2018.2(Strategy)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prova2-2018.2(Strategy)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,30 +19,48 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/simulal/Facade.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="28">
               <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/simulal/_controllers/SimulalController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
               <folding>
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#205#206#0" expanded="true" />
-                <element signature="e#601#602#0" expanded="true" />
-                <element signature="e#624#625#0" expanded="true" />
-                <element signature="e#718#719#0" expanded="true" />
-                <element signature="e#789#790#0" expanded="true" />
-                <element signature="e#827#828#0" expanded="true" />
-                <element signature="e#864#865#0" expanded="true" />
-                <element signature="e#933#934#0" expanded="true" />
-                <element signature="e#985#986#0" expanded="true" />
-                <element signature="e#1043#1044#0" expanded="true" />
-                <element signature="e#1093#1094#0" expanded="true" />
-                <element signature="e#1149#1150#0" expanded="true" />
-                <element signature="e#1168#1169#0" expanded="true" />
-                <element signature="e#1245#1246#0" expanded="true" />
-                <element signature="e#1290#1291#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simulal/_animais/Animal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <folding>
+                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#527#528#0" expanded="true" />
+                <element signature="e#553#554#0" expanded="true" />
+                <element signature="e#583#584#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simulal/_animais/Cachorro.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -101,6 +112,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -138,12 +150,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/leda-eda-ferias/RR1-01-Roteiro-Revisao-Arrays-Interfaces-environment" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -170,26 +183,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560214909678</updated>
-      <workItem from="1560214913762" duration="3490000" />
+      <workItem from="1560214913762" duration="4846000" />
+      <workItem from="1561683021058" duration="219000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3490000" />
+    <option name="totallyTimeSpent" value="5065000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-6" width="1855" height="1086" extended-state="6" />
-    <editor active="true" />
+    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2498618" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25262576" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.3176711" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
@@ -226,17 +239,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simulal/_animais/Cachorro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#108#109#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-11-oracle/lib/src.zip!/java.base/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="313">
@@ -251,33 +253,6 @@
           <folding>
             <element signature="e#97#98#0" expanded="true" />
             <element signature="e#140#141#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simulal/_animais/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding>
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simulal/_controllers/SimulalController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1148">
-          <caret line="41" column="42" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1522#1523#0" expanded="true" />
-            <element signature="e#1579#1580#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -308,23 +283,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simulal/_animais/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
           <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#601#602#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-            <element signature="e#718#719#0" expanded="true" />
-            <element signature="e#789#790#0" expanded="true" />
-            <element signature="e#827#828#0" expanded="true" />
-            <element signature="e#864#865#0" expanded="true" />
-            <element signature="e#933#934#0" expanded="true" />
-            <element signature="e#985#986#0" expanded="true" />
-            <element signature="e#1043#1044#0" expanded="true" />
-            <element signature="e#1093#1094#0" expanded="true" />
-            <element signature="e#1149#1150#0" expanded="true" />
-            <element signature="e#1168#1169#0" expanded="true" />
-            <element signature="e#1245#1246#0" expanded="true" />
-            <element signature="e#1290#1291#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simulal/_animais/Cachorro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simulal/_controllers/SimulalController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
