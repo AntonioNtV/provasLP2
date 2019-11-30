@@ -30,8 +30,10 @@ public class MiniCarregadeira {
         if (acessorio == null) {
             throw new IllegalArgumentException("Acessorio nao pode ser nulo");
         }
+
+        this.peso -= this.acessorio.getPeso();
         this.acessorio = acessorio;
-        this.peso = this.peso + this.acessorio.getPeso();
+        this.peso += this.acessorio.getPeso();
         this.capacidade = this.capacidade + this.acessorio.getCapacidade();
     }
 
