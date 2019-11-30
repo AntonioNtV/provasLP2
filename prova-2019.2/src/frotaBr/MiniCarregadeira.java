@@ -31,47 +31,23 @@ public class MiniCarregadeira {
             throw new IllegalArgumentException("Acessorio nao pode ser nulo");
         }
 
-        this.peso -= this.acessorio.getPeso();
         this.acessorio = acessorio;
-        this.peso += this.acessorio.getPeso();
-        this.capacidade = this.capacidade + this.acessorio.getCapacidade();
     }
 
     public String getAplicacao() {
         return this.acessorio.getAPLICACAO();
     }
 
-
     public int getId() {
         return id;
     }
 
-    public void setId(int id) {
-        this.id = id;
-    }
-
-    public double getPotencia() {
-        return potencia;
-    }
-
-    public void setPotencia(double potencia) {
-        this.potencia = potencia;
-    }
-
     public double getCapacidade() {
-        return capacidade;
-    }
-
-    public void setCapacidade(double capacidade) {
-        this.capacidade = capacidade;
+        return this.capacidade + this.acessorio.getCapacidade();
     }
 
     public double getPeso() {
-        return peso;
-    }
-
-    public void setPeso(double peso) {
-        this.peso = peso;
+        return this.peso + this.acessorio.getPeso();
     }
 
     @Override
@@ -92,8 +68,8 @@ public class MiniCarregadeira {
         return "MiniCar [" +
                 "id=" + id +
                 ", potencia=" + potencia +
-                ", con=" + capacidade +
-                ", peso=" + peso +
+                ", con=" + this.getCapacidade() +
+                ", peso=" + this.getPeso() +
                 ", aplicacao=" + this.getAplicacao() +
                 ']';
     }
